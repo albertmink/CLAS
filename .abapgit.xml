@@ -5,7 +5,6 @@
    <MASTER_LANGUAGE>E</MASTER_LANGUAGE>
    <STARTING_FOLDER>/src/</STARTING_FOLDER>
    <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
-   <ABAP_LANGUAGE_VERSION>2</ABAP_LANGUAGE_VERSION>
    <IGNORE>
     <item>/.gitignore</item>
     <item>/LICENSE</item>
@@ -13,6 +12,7 @@
     <item>/package.json</item>
     <item>/.travis.yml</item>
    </IGNORE>
+   <ABAP_LANGUAGE_VERSION>2</ABAP_LANGUAGE_VERSION>
   </DATA>
  </asx:values>
 </asx:abap>

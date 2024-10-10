@@ -9,7 +9,16 @@
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
    </VSEOCLASS>
+   <TPOOL>
+    <item>
+     <ID>I</ID>
+     <KEY>TXT</KEY>
+     <ENTRY>Example text</ENTRY>
+     <LENGTH>20</LENGTH>
+    </item>
+   </TPOOL>
    <LINES>
     <TLINE>
      <TDFORMAT>U1</TDFORMAT>

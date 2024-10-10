@@ -12,7 +12,6 @@
     <item>/package.json</item>
     <item>/.travis.yml</item>
    </IGNORE>
-   <ABAP_LANGUAGE_VERSION>keyUser</ABAP_LANGUAGE_VERSION>
   </DATA>
  </asx:values>
 </asx:abap>

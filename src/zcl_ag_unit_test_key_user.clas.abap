@@ -16,7 +16,7 @@ CLASS ZCL_AG_UNIT_TEST_KEY_USER IMPLEMENTATION.
 
 
   method HELLO.
-    write / 'No data'(002).
+
 
   endmethod.
 ENDCLASS.
